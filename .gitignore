@@ -1,0 +1,4 @@
+.venv/
+config/posted.cfg
+*.pyc
+__pycache__/
